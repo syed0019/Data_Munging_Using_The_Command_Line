@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # In this project, we worked with datasets on U.S. housing affordability from the U.S. Department of Housing & Urban Development to do data munging using the command line to make them easier to work with.
 
